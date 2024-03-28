@@ -1,1 +1,5 @@
-# ALEST2_24.1
+## Cadeira de Algoritimos e Estruturas de Dados II ##
+
+# Tecnologias utilizadas
+
+# 
